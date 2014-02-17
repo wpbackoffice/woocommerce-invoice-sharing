@@ -1,0 +1,9 @@
+.wso_wrap #wso_form_options label, .wso_wrap #wso_form_options input, .wso_wrap #wso_message_options label, .wso_wrap #wso_message_options input {
+	float: left;
+	clear: left;
+}
+
+.wso_wrap input[type=text] {
+	margin-bottom: 10px;
+	width: 100%;
+}

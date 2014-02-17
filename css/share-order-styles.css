@@ -1,0 +1,24 @@
+.share_order_container {
+	overflow: auto;
+	margin-bottom: 20px;
+}
+
+.share_order_container label {
+	margin-bottom: 10px;
+}
+
+.share_order_container label, .share_order_container #order_share_email {
+	float: left;
+	clear: left;
+}
+
+.share_order_container #submit_order_share {
+	float: left; 
+	margin-left: 10px !important;
+}
+
+.share_order_container .order_message {
+	float: left;
+	clear: left;
+	margin-top: 10px;
+}
